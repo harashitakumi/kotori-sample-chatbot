@@ -37,4 +37,4 @@ jobs:
 #           USER_ID: "YOUR_USER_ID"
         run: |
           # main.pyの実行
-          python main_01.py
+          python main.py
