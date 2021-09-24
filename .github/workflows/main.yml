@@ -30,7 +30,7 @@ jobs:
           # 必要なパッケージインストール
           pip install line-bot-sdk
       - name: Run script
-          #環境変数
+          #環境変数(コンピューターが自身が持っている変数)
 #         env:
 #           CHANNEL_ACCESS_TOKEN: "YOUR_CHANNEL_ACCESS_TOKEN"
 #           USER_ID: "YOUR_USER_ID"
